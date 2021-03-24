@@ -6,5 +6,6 @@ public class Sample {
 		System.out.println("Java Program");
 		System.out.println("Welcome to Java Class");
 		System.out.println("A branch");
+		System.out.println("B Branch");
 	}
 }
